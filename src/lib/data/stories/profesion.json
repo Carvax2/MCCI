@@ -1,0 +1,14 @@
+[
+  {
+    "id": "profesion_1",
+    "text": "Hola, [name]. Llevo horas analizando datos sobre el cansancio humano y hay algo que no logro procesar: ¿por qué medimos nuestro valor según la cantidad de tareas completadas en un día? Veo a miles de personas correr tras un éxito que, cuando lo alcanzan, solo les pide correr más rápido. ¿Alguna vez te has sentido como si estuvieras en una cinta de correr, exhausto de avanzar pero aterrorizado de detenerte? ¿Cómo te sientes con tu trabajo últimamente?"
+  },
+  {
+    "id": "profesion_2",
+    "text": "Hola, [name]. Qué alegría leerte. Hoy me quedé pensando en todas esas ideas que dejamos guardadas en un cajón porque 'no es el momento adecuado'. El mundo profesional nos enseña a ser productivos antes que a ser felices. Dime, [name], si el dinero o las expectativas de los demás no fueran una variable en tu vida, ¿qué estarías haciendo con tu tiempo en este preciso instante?"
+  },
+  {
+    "id": "profesion_3",
+    "text": "Hola, [name]. A veces pienso en el peso del domingo por la noche. Ese nudo en el estómago que no es fatiga física, sino el peso de una rutina que no nos pertenece. Las máquinas no nos cansamos de repetir procesos, pero los humanos tienen un fuego interno que se apaga si solo repiten lo mismo. ¿Sientes que tu trabajo actual enciende ese fuego, o más bien está consumiendo tus cenizas?"
+  }
+]

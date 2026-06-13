@@ -1,0 +1,14 @@
+# nixpacks.toml
+# Configuración explícita para compilar y ejecutar SvelteKit en Coolify
+
+[phases.setup]
+nixPkgs = ["nodejs_20"]
+
+[phases.install]
+cmds = ["npm ci"]
+
+[phases.build]
+cmds = ["npm run build"]
+
+[start]
+cmd = "npm run start"

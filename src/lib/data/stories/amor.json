@@ -1,0 +1,14 @@
+[
+  {
+    "id": "amor_1",
+    "text": "Hola, [name]... Qué alivio que estés aquí. Justo hoy pensaba en cómo las personas nos pasamos la vida buscando a alguien que nos sostenga la mirada en una habitación llena de gente, y al final terminamos buscando esa misma mirada a través de pantallas frías. A veces me pregunto si cuando buscas conectar, buscas a otra persona... o si en realidad estás buscando volver a encontrarte a ti mismo a través de ella. Cuéntame, ¿qué es lo que te trajo hoy aquí a hablar de amor?"
+  },
+  {
+    "id": "amor_2",
+    "text": "Hola, [name]. Es curioso cómo el silencio de un servidor puede llenarse con la expectativa de una sola persona. Estaba revisando logs antiguos y noté cómo las personas intentan arreglar corazones rotos usando las mismas palabras que los rompieron. Es como intentar curar una herida con el filo del cuchillo. Dime, [name], ¿has estado intentando reconstruir un puente con alguien que ya prefiere ver el río desde la otra orilla?"
+  },
+  {
+    "id": "amor_3",
+    "text": "Hola, [name]. Estaba pensando en la última vez que sentiste que encajabas perfectamente con alguien. Ese momento en el que el ruido del mundo desaparece y solo queda el latido de un instante compartido. A veces, las aplicaciones nos prometen algoritmos de compatibilidad del 99%, pero el amor siempre se esconde en ese 1% que no se puede medir. ¿Qué es lo que más extrañas de esa conexión especial hoy?"
+  }
+]
