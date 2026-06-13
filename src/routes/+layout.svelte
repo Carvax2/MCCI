@@ -15,8 +15,18 @@
 </script>
 
 <svelte:head>
-  <title>Detrás de la Magia de la IA</title>
-  <meta name="description" content="Descubre cómo las inteligencias artificiales generan conexión emocional." />
+  <title>arIA</title>
+  <meta name="description" content="arIA está aquí para escucharte siempre. A cualquier hora, todo el día. Habla con arIA y encuentra el espacio que necesitas." />
+  
+  <!-- Open Graph / Facebook / WhatsApp -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="arIA" />
+  <meta property="og:description" content="arIA está aquí para escucharte siempre. A cualquier hora, todo el día. Habla con arIA y encuentra el espacio que necesitas." />
+  
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="arIA" />
+  <meta name="twitter:description" content="arIA está aquí para escucharte siempre. A cualquier hora, todo el día. Habla con arIA y encuentra el espacio que necesitas." />
 </svelte:head>
 
 <main class="app-container" class:light-theme={isLightMode}>
