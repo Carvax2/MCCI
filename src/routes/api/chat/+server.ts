@@ -17,11 +17,11 @@ import { env } from '$env/dynamic/private';
 // Diccionario de webhooks. Aquí el usuario pegará las URLs de n8n o Make.
 // Soporta variables de entorno o valores predeterminados (fallback).
 const WEBHOOK_URLS: Record<string, string> = {
-  esencia: env.WEBHOOK_ESENCIA || 'https://atm.carvax.it.com/webhook/aria-esencia',
-  amor: env.WEBHOOK_AMOR || 'https://atm.carvax.it.com/webhook/aria-os',
-  profesion: env.WEBHOOK_PROFESION || 'https://atm.carvax.it.com/webhook/aria-profesion',
-  misterios: env.WEBHOOK_MISTERIOS || 'https://atm.carvax.it.com/webhook/aria-misterios',
-  familia: env.WEBHOOK_FAMILIA || 'https://atm.carvax.it.com/webhook/aria-familia'
+  esencia: env.WEBHOOK_ESENCIA || '',
+  amor: env.WEBHOOK_AMOR || '',
+  profesion: env.WEBHOOK_PROFESION || '',
+  misterios: env.WEBHOOK_MISTERIOS || '',
+  familia: env.WEBHOOK_FAMILIA || ''
 };
 
 export const POST: RequestHandler = async ({ request }) => {
